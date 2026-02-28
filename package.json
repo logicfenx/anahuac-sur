@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/anahuac-sur",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a anahuac-sur",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/anahuac-sur.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/anahuac-sur/"
+    },
+    "homepage": "https://transpero.net/es/anahuac-sur/"
+}
